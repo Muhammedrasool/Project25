@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project25</string>
+    <string name="termsCondition">By proseeding,I accept the Zee Business Terms and Condtions and acknowledge the Privacy policy</string>
+    <string name="signinsignup">Signin or Signup</string>
+    <string name="emailandnumber">Email or Mobile Number</string>
+
+
+</resources>
